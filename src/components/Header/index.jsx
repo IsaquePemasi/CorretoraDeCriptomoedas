@@ -6,7 +6,7 @@ export const Header = () => {
         <p>Home</p>
         <p>Contato</p>
         <p>Compra</p>
-
+        <p>Cotação</p>
     </div>
   )
 }
