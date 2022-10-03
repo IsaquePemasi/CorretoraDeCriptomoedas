@@ -8,8 +8,8 @@ export default () => {
     return (
         <div className="footer">
             <section id="top">
-                    <p>Telefone - (11) 2351-9990</p>
-                    <p>Email - dreamtrip@gmail.com</p>
+                    <p>Telefone - (11) 9899-7604</p>
+                    <p>Email - criptora@gmail.com</p>
                     <p>Endereço - Av Paulista, n°1000 São Paulo SP</p> 
             </section>
             <section id="bottom">
