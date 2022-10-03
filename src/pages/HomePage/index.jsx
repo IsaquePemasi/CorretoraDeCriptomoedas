@@ -14,8 +14,8 @@ export default () => {
     return (
         <div className="body-home">
             <div className="banner-area">
-                <h1 className="title">Bem Vindo à Dream Trip</h1>
-                <h2 className="sub-title">A agência de viagens que você precisa!</h2>
+                <h1 className="title">Bem Vindo à Criptora</h1>
+                <h2 className="sub-title">A sua corretora de criptomoedas!</h2>
                 <button onClick={goToCommentSection} className="animation--btn">
                     <span>
                         <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
