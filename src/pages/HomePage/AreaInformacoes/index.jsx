@@ -9,13 +9,11 @@ function index({ref}) {
          <section className='descricao'>
             <h2 className='title-infoArea'>Nossa Empresa</h2>
             <p className='desc--empresa'>
-                Somos uma empresa com mais de 30 anos de mercado,
-                temos os melhores preços para que você e sua família
-                façam aquela viagem dos sonhos.
+                Somos uma empresa com mais de 10 anos de mercado,
+                temos os melhores preços para que você possa commprar suas criptomoedas.
             </p>
             <p className='desc--empresa'>
-                Planejar uma viagem requer conhecimento, dedicação, confiança e paixão, 
-                para proporcionar a você uma experiência única e incomparável!
+                Comprar criptomoedas requer segurança, privcidade e ótimos preços, para proporcionar a você uma experiência única e incomparável!!
             </p>
 
             <h2 className='title-infoArea'>Missão, Visão e Valores</h2>
