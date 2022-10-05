@@ -1,5 +1,5 @@
 import React from "react";
-import './styles.css'
+import './footer.css'
 import insta from '../../assets/instagram.png'
 import face from '../../assets/facebook.png'
 import whats from '../../assets/whatsapp.png'
