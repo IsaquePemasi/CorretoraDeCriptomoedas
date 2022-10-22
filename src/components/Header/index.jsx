@@ -4,7 +4,7 @@ import "./styles.css";
 
 export const Header = () => {
   return (
-    <div>
+    <div class="caixa" >
        <Link to={"/"}>Home</Link>
         <Link to={"/Contato"}>Contato</Link>
         <Link to={"/Compra"}>Compra</Link>
