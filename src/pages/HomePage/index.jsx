@@ -38,7 +38,7 @@ export default () => {
             </div>
             <span ref={commentSection}></span>
             <AreaInformacoes ref={commentSection}/>
-            <Footer />
+            {/*<Footer />*/}
         </div>
     )
 }

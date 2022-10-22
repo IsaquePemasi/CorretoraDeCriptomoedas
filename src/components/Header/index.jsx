@@ -6,8 +6,9 @@ export const Header = () => {
   return (
     <div class="caixa" >
        <Link to={"/"}>Home</Link>
+       <Link to={"/Compra"}>Criptomoedas</Link>
         <Link to={"/Contato"}>Contato</Link>
-        <Link to={"/Compra"}>Compra</Link>
+
     </div>
   )
 }
