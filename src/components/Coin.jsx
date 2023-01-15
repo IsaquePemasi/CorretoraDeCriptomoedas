@@ -4,6 +4,7 @@ const Coin = ({name, icon, price, symbol}) => {
 
     //props
     return(
+        <div className="card2">
         <div className="card">
             <div>{name} : {symbol}</div>
             <img className ="coin-icon" src={icon} alt={name} />
@@ -11,6 +12,8 @@ const Coin = ({name, icon, price, symbol}) => {
                 <strong>USD: {price.toFixed(2)}</strong>
             </div>
         </div>
+        </div>
+
     )
 
 }
