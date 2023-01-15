@@ -25,14 +25,12 @@ const CoinList = () => {
 
     },[])
 
-
     const filteredCoins = coinList.filter(
         (coin) => {
             return coin.name.toLowerCase().includes(coinName.toLowerCase());
         }
     );
 
-    
     return(
         <div style={mainContainer}>
             <div>
